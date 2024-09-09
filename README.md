@@ -1,0 +1,5 @@
+- Hey guys! I’m David!
+- 👀 I’m interested in web page development
+- 🌱 I’m currently learning HTML/CSS 
+- 💞️ Looking to collaborate on new web pages and mobile applications
+- 📫 How to reach me: primary email: davidjhenderson23@gmail.com
