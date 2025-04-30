@@ -1,6 +1,6 @@
 # 👋 Hi, I'm David Henderson
 
-I'm an **entry-level software developer** with a passion for building clean, responsive, and user-friendly applications. My focus is on developing practical solutions using modern web technologies and Microsoft frameworks.
+I'm an **aspiring software developer** with a passion for building clean, responsive, and user-friendly applications. My focus is on developing practical solutions using modern web technologies and Microsoft frameworks.
 
 ## 🛠️ Skills
 
